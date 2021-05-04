@@ -1,0 +1,32 @@
+  {
+    "projects": {
+      "11tyhype": "git@github.com:hendotcat/11tyhype.git",
+      "11tysass": "git@github.com:hendotcat/11tysass.git",
+      "11tyshim": "git@github.com:hendotcat/11tyshim.git",
+      "8bitcart": "git@github.com:hendotcat/8bitcart.git",
+      "badregex": "git@github.com:hendotcat/badregex.git",
+      "boomshak": "git@github.com:hendotcat/boomshak.git",
+      "contrast": "git@github.com:hendotcat/contrast.git",
+      "doomfire": "git@github.com:hendotcat/doomfire.git",
+      "dotfiles": "git@github.com:hendotcat/dotfiles.git",
+      "hivernal": "git@github.com:hendotcat/hivernal.git",
+      "homepage": "git@github.com:hendotcat/homepage.git",
+      "itsy": "git@github.com:hendotcat/itsy.git",
+      "joshua": "git@github.com:hendotcat/joshua.git",
+      "missingno": "git@github.com:hendotcat/missingno.git",
+      "moonrise": "git@github.com:hendotcat/moonrise.git",
+      "notebook": "git@github.com:hendotcat/notebook.git",
+      "picknmix": "git@github.com:hendotcat/picknmix.git",
+      "pico8": "git@github.com:hendotcat/pico8.git",
+      "picocart": "git@github.com:hendotcat/picocart.git",
+      "ppl": "git@github.com:hendotcat/ppl.git",
+      "railsapp": "git@github.com:hendotcat/railsapp.git",
+      "sassolite": "git@github.com:hendotcat/sassolite.git",
+      "spectrum": "git@github.com:hendotcat/spectrum.git",
+      "tailbone": "git@github.com:hendotcat/tailbone.git",
+      "tunnelbana": "git@github.com:hendotcat/tunnelbana.git",
+      "wargames": "git@github.com:hendotcat/wargames.git",
+      "wikimobilizer": "git@github.com:hendotcat/wikimobilizer.git",
+      "zoetrope": "git@github.com:hendotcat/zoetrope.git"
+    }
+  }
