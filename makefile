@@ -1,12 +1,32 @@
-install:
-	@meta git update
+bin:=$(shell yarn bin)
+meta:=$(bin)/meta
+comma:= ,
+empty:=
+space:= $(empty) $(empty)
 
-remotes:
-	@meta git remote rename origin github
+$(meta):
+	yarn
 
-update:
-	@meta --parallel git remote update --prune
-	@meta git merge --ff-only "@{u}"
+install: $(meta)
+	@$(meta) git update
 
-.PHONY: install remotes update
+remotes: $(meta)
+	@$(meta) git remote rename origin github
+
+update: $(meta)
+	@$(meta) --parallel git remote update --prune
+	@$(meta) git merge --ff-only "@{u}"
+
+yarn: $(meta)
+	@$(meta) yarn install --include-only $(subst $(space),$(comma),$(shell \
+		find . -maxdepth 2 -mindepth 2 -type f | \
+		cut -c3- | \
+		grep yarn.lock | \
+		rev | \
+		cut -c11- | \
+		rev | \
+		sort \
+	))
+
+.PHONY: install remotes update yarn
 
