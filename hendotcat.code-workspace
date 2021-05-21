@@ -1,87 +1,123 @@
 {
 	"folders": [
 		{
+			"name": "11tyhype",
 			"path": "11tyhype"
 		},
 		{
+			"name": "11tysass",
 			"path": "11tysass"
 		},
 		{
+			"name": "11tyshim",
 			"path": "11tyshim"
 		},
 		{
+			"name": "11tysnap",
+			"path": "11tysnap"
+		},
+		{
+			"name": "11tytype",
+			"path": "11tytype"
+		},
+		{
+			"name": "8bitcart",
 			"path": "8bitcart"
 		},
 		{
+			"name": "badregex",
 			"path": "badregex"
 		},
 		{
+			"name": "boomshak",
 			"path": "boomshak"
 		},
 		{
+			"name": "contrast",
 			"path": "contrast"
 		},
 		{
+			"name": "doomfire",
 			"path": "doomfire"
 		},
 		{
+			"name": "dotfiles",
 			"path": "dotfiles"
 		},
 		{
+			"name": "hivernal",
 			"path": "hivernal"
 		},
 		{
+			"name": "homepage",
 			"path": "homepage"
 		},
 		{
+			"name": "itsy",
 			"path": "itsy"
 		},
 		{
+			"name": "joshua",
 			"path": "joshua"
 		},
 		{
+			"name": "missingno",
 			"path": "missingno"
 		},
 		{
+			"name": "moonrise",
 			"path": "moonrise"
 		},
 		{
+			"name": "notebook",
 			"path": "notebook"
 		},
 		{
+			"name": "picknmix",
 			"path": "picknmix"
 		},
 		{
+			"name": "pico8",
 			"path": "pico8"
 		},
 		{
+			"name": "picocart",
 			"path": "picocart"
 		},
 		{
+			"name": "ppl",
 			"path": "ppl"
 		},
 		{
+			"name": "railsapp",
 			"path": "railsapp"
 		},
 		{
+			"name": "sassolite",
 			"path": "sassolite"
 		},
 		{
+			"name": "spectrum",
 			"path": "spectrum"
 		},
 		{
+			"name": "tailbone",
 			"path": "tailbone"
 		},
 		{
+			"name": "tunnelbana",
 			"path": "tunnelbana"
 		},
 		{
+			"name": "wargames",
 			"path": "wargames"
 		},
 		{
+			"name": "wikimobilizer",
 			"path": "wikimobilizer"
 		},
 		{
+			"name": "zoetrope",
 			"path": "zoetrope"
 		}
 	]
