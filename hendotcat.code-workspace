@@ -45,6 +45,10 @@
 			"path": "dotfiles"
 		},
 		{
+			"name": "elements",
+			"path": "elements"
+		},
+		{
 			"name": "hivernal",
 			"path": "hivernal"
 		},
