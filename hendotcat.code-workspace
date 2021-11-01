@@ -93,6 +93,10 @@
 			"path": "ppl"
 		},
 		{
+			"name": "ppl.wiki",
+			"path": "ppl.wiki"
+		},
+		{
 			"name": "railsapp",
 			"path": "railsapp"
 		},

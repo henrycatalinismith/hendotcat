@@ -23,6 +23,7 @@
     "pico8": "git@github.com:hendotcat/pico8.git",
     "picocart": "git@github.com:hendotcat/picocart.git",
     "ppl": "git@github.com:hendotcat/ppl.git",
+    "ppl.wiki": "git@github.com:hendotcat/ppl.wiki.git",
     "railsapp": "git@github.com:hendotcat/railsapp.git",
     "sassolite": "git@github.com:hendotcat/sassolite.git",
     "spectrum": "git@github.com:hendotcat/spectrum.git",
